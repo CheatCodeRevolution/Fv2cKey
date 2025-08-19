@@ -1,15 +1,11 @@
 [
   {
-    "id": "75ec5c1ab1f2bf4f",
-    "username": "cheatcode",
-    "password": "123",
+    "key": "123",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "key": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
