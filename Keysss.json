@@ -1,5 +1,5 @@
 [
-  {"key": "key_1", "device": "A142", "expiresAt": "2025-12-31"},
-  {"key": "key_2", "device": "A145", "expiresAt": "2025-12-31"}
+  {"key": "key_1", "expiresAt": "2025-12-31"},
+  {"key": "key_2", "expiresAt": "2025-12-31"}
 ]
 
