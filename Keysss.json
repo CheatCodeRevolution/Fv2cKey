@@ -1,4 +1,4 @@
 [
-  {"key": "key_1", "expiresAt": "2025-12-31", "model": "A142"},
-  {"key": "key_2", "expiresAt": "2025-12-31", "model": "A143"}
+  {"UID": "964221166", "expiresAt": "2025-12-31"},
+  {"UID": "987712344", "expiresAt": "2025-12-31"}
 ]
